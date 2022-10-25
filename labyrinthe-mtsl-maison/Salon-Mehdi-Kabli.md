@@ -6,4 +6,4 @@ Vous êtes dans le salon de Mehdi
 
 //lien//
 
-Auteurs : Mehdi , Sebastien , Lou , Thomas
+Auteurs : Mehdi 
