@@ -6,4 +6,4 @@ Vous êtes dans la chambre de Mehdi
 
 //lien//
 
-Auteurs : Mehdi , Sebastien , Lou , Thomas
+Auteurs : Mehdi 
