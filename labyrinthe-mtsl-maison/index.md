@@ -7,4 +7,4 @@ Ce lieu est le point de départ de notre labyrinthe, vous êtes a la porte d'ent
 //lien//
 
 
-Auteurs : Medhi , Sebastien , Lou , Thomas
+Auteurs : Mehdi , Sebastien , Lou , Thomas
