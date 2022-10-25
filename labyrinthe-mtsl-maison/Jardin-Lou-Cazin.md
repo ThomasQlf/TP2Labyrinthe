@@ -6,6 +6,6 @@ Bienvenue dans mon jardin, vous inquiétez pas mon chien ne mord pas !
 
 Lien pièce suivante :
 
-Lien pièce précédente : https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Garage-Lou-Cazin.md
+Lien pièce précédente : Garage Lou https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Garage-Lou-Cazin.md
 
 Auteur : Lou
