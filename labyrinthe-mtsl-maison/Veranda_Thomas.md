@@ -6,7 +6,7 @@ Vous êtes dans la veranda, le soleil brille
 
 Vous êtes coincé !
 
-[Lien pièce précédente](https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Veranda_Thomas.md)
+[Lien pièce précédente](https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Couloir_Thomas.md)
 
 
 Auteur: Thomas Beckmann
