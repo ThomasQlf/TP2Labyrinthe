@@ -1,4 +1,4 @@
-#Salon
+# Salon
 
 Vous êtes dans le salon de Mehdi
 
@@ -16,4 +16,4 @@ Pièce en bas :
 
 https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Chambre_Thomas.md
 
-Auteurs : Mehdi
+Auteur : Mehdi
