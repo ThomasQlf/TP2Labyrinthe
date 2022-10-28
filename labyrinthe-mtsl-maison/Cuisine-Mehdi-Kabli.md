@@ -1,4 +1,4 @@
-#Cuisine
+# Cuisine
 
 Vous êtes dans la cuisine de Mehdi
 
@@ -8,8 +8,8 @@ Lien Pièce précédente :
 
 https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Salon-Mehdi-Kabli.md
 
-Lience Pièce à droite : 
+Lien Pièce à droite : 
 
 https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Garage-Lou-Cazin.md
 
-Auteurs : Mehdi
+Auteur : Mehdi
