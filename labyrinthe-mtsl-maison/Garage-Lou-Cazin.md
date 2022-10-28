@@ -6,6 +6,6 @@ Bienvenue dans mon garage, elle est belle ma lambo ?
 
 [Pièce a droite :](https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Jardin-Lou-Cazin.md)
 
-[Pièce précédente :](Cuisine Mehdi https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Cuisine-Mehdi-Kabli.md)
+[Pièce précédente :](https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Cuisine-Mehdi-Kabli.md)
 
 Auteur : Lou
