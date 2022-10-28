@@ -13,7 +13,7 @@ Oh ! un pot de fleur parait suspect, essayez de vous approcher pour voir
 Sinon,
 Il n'y a pas de suite : veuillez rebrousser chemin !
  
-Lien pièce précédente : Salon sebastien https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Salon_S%C3%A9bastien.md
+[Lien pièce précédente :](https://github.com/ThomasQlf/TP2Labyrinthe/blob/main/labyrinthe-mtsl-maison/Salon_S%C3%A9bastien.md)
 
 Auteurs : Lou 
 
