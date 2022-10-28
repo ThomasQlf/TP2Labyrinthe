@@ -1,4 +1,4 @@
-#Garage_Sébastien
+# Garage
 
 Voici mon garage où se trouve ma voiture (c'est faux mdr)
 

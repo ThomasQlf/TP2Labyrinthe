@@ -1,4 +1,4 @@
-#Salon_Sébastien
+# Salon
 
 Regardez mon salon tout neuf
 
